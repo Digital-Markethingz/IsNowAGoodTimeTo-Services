@@ -25,7 +25,7 @@ class linkedin
 	public string $serviceId = 'linkedin';
 	public string $displayName = 'LinkedIn';
 	public string $actionTag = 'Post on';
-	public ?string $actionName = 'LinkedIN';
+	public ?string $actionName = 'LinkedIn';
 	public bool $showIcon = true;
 	public ?string $shoelaceIconID = 'linkedin';
 	public ?string $emojiIcon = '💬';
